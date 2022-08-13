@@ -13,3 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+link to deployed project 
+https://wave-portal-fawn.vercel.app/
